@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PottatoWasFound
 - 👀 I’m interested in Computer IT
-- 🌱 I’m currently learning Gak Tau
-- 💞️ I’m looking to collaborate on Entah
+- 🎮 Im a Gamer 
 - 📫 How to reach me Gmail : pottatowasfound@gmail.com
 
 <!---
