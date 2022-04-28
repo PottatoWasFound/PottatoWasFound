@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PottatoWasFound
-- 👀 I’m interested in Computer IT
+- 👀 I’m interested in Arduino/Esp
 - 🎮 Im a Gamer 
 - 📫 How to reach me Gmail : pottatowasfound@gmail.com
 
