@@ -1,4 +1,4 @@
-# Hey, I'm Darryl 👋
+# Hi, I'm darils 👋
 
 > Student focused on networking, cloud, and backend development.
 
@@ -34,9 +34,9 @@ Cisco Packet Tracer VLAN, SSH, DNS, and static routing configurations.
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=PottatoWasFound&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact
 
-- Email: your@email.com
-- Instagram: @yourusername
+- Tiktok : darils
+- Instagram: @darilwasfound
