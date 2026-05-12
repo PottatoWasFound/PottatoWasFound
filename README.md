@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @PottatoWasFound
+- 👋 Hi, I’m @darils
 - 👀 I’m interested in Arduino/Esp
-- 🎮 Im a Gamer 
 - 📫 How to reach me Gmail : pottatowasfound@gmail.com
 
 <!---
